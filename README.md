@@ -7,3 +7,5 @@ We make the remote hiring journey easy and rewarding for both companies and deve
 
 How does Turing work? 
 Our Intelligent Talent Cloud uses AI to source, vet, match, and manage over a million developers worldwide. This, in turn, helps organizations save valuable time and resources as they build their dream engineering team in a matter of days.
+
+Open positions here: https://github.com/leolacoliver/Turing.com/issues
